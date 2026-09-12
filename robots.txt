@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishv-unjiya.github.io/resources-dzp2qr/sitemap.xml
